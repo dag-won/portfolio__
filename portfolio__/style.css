@@ -6,6 +6,12 @@
   align-items: flex-start;
   gap: 796px;
 }
+.template-1 a{
+  text-decoration: none;
+}
+.template-1 a:hover{
+  color: black;
+}
 ul {
   list-style: none;
 }
